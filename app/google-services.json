@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "369774706661",
+    "project_id": "mentematch-test-b0f1a",
+    "storage_bucket": "mentematch-test-b0f1a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:369774706661:android:7db60945f0b9af2b72790c",
+        "android_client_info": {
+          "package_name": "com.uma.mentematch"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4QS5jaWapUNd4T8-i2MdXNtL1qEqombg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

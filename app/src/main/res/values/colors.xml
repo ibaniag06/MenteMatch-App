@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Colores extraídos del logotipo de MenteMatch -->
+    <color name="primary_dark">#1A525C</color>
+    <color name="primary_light">#4CB5AB</color>
+    <color name="accent_orange">#E8744F</color>
+    <color name="accent_yellow">#F2B36D</color>
+    <color name="background_teal">#0D3B45</color>
+
+    <!-- Colores para el nuevo sistema MenteMatch -->
+    <color name="beige_light">#FFF9F1</color>
+    <color name="lila_card">#F2EFFF</color>
+    <color name="lila_card_dark">#D1C4E9</color>
+    <color name="text_dark">#1A525C</color>
+</resources>
